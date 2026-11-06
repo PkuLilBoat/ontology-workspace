@@ -1,6 +1,6 @@
 {
     "name": "roam-workspace",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Journal, page stream, and recent activity navigation in one workspace.",
     "main": "main.js",
     "scripts": {
